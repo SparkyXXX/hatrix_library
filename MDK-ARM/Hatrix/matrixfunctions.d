@@ -1,0 +1,14 @@
+hatrix\matrixfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/MatrixFunctions/MatrixFunctions.c
+hatrix\matrixfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/MatrixFunctions/arm_mat_add_f32.c
+hatrix\matrixfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/matrix_functions.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_types.h
+hatrix\matrixfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+hatrix\matrixfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\float.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\limits.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_memory.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/none.h
+hatrix\matrixfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/utils.h

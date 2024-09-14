@@ -1,0 +1,14 @@
+hatrix\commontables.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/CommonTables/CommonTables.c
+hatrix\commontables.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/CommonTables/arm_common_tables.c
+hatrix\commontables.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_types.h
+hatrix\commontables.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+hatrix\commontables.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+hatrix\commontables.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+hatrix\commontables.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+hatrix\commontables.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
+hatrix\commontables.o: D:\Keil\ARM\ARMCC\Bin\..\include\float.h
+hatrix\commontables.o: D:\Keil\ARM\ARMCC\Bin\..\include\limits.h
+hatrix\commontables.o: ..\Drivers\CMSIS\DSP\Include\arm_common_tables.h
+hatrix\commontables.o: ..\Drivers\CMSIS\DSP\Include\arm_math.h
+hatrix\commontables.o: ../Drivers/CMSIS/Include/core_cm4.h
+hatrix\commontables.o: ../Drivers/CMSIS/Include/cmsis_version.h

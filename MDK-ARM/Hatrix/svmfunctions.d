@@ -1,0 +1,15 @@
+hatrix\svmfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/SVMFunctions/SVMFunctions.c
+hatrix\svmfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/SVMFunctions/arm_svm_linear_init_f32.c
+hatrix\svmfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/svm_functions.h
+hatrix\svmfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_types.h
+hatrix\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+hatrix\svmfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+hatrix\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+hatrix\svmfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+hatrix\svmfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
+hatrix\svmfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\float.h
+hatrix\svmfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\limits.h
+hatrix\svmfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_memory.h
+hatrix\svmfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/none.h
+hatrix\svmfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/utils.h
+hatrix\svmfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/svm_defines.h

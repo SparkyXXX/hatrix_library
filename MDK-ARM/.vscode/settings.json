@@ -1,0 +1,33 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "main.h": "c",
+        "gpio.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "periph_led.h": "c",
+        "util_gpio.h": "c",
+        "util_pwm.h": "c",
+        "periph_buzzer.h": "c",
+        "callback.h": "c",
+        "init.h": "c",
+        "run.h": "c",
+        "periph_bmi088.h": "c",
+        "sys_dwt.h": "c",
+        "bmi088reg.h": "c",
+        "periph_servo.h": "c",
+        "alg_kalman.h": "c",
+        "stdlib.h": "c",
+        "alg_kf.h": "c",
+        "lib_quaternion.h": "c",
+        "alg_qekf.h": "c",
+        "init_ctrl.h": "c",
+        "app_ins.h": "c",
+        "task_ctrl.h": "c",
+        "protocol_motor.h": "c",
+        "app_motor_test.h": "c",
+        "alg_pid.h": "c",
+        "periph_motor_can.h": "c",
+        "callback_ctrl.h": "c"
+    }
+}

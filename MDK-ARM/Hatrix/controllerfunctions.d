@@ -1,0 +1,14 @@
+hatrix\controllerfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/ControllerFunctions/ControllerFunctions.c
+hatrix\controllerfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/ControllerFunctions/arm_pid_init_f32.c
+hatrix\controllerfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/controller_functions.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_types.h
+hatrix\controllerfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+hatrix\controllerfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\float.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\limits.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_memory.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/none.h
+hatrix\controllerfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/utils.h

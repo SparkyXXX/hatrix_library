@@ -1,0 +1,17 @@
+hatrix\bayesfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/BayesFunctions/BayesFunctions.c
+hatrix\bayesfunctions.o: D:/Keil/ARM/Pack/ARM/CMSIS-DSP/1.14.2/Source/BayesFunctions/arm_gaussian_naive_bayes_predict_f32.c
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/bayes_functions.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_types.h
+hatrix\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+hatrix\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\math.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\float.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\ARMCC\Bin\..\include\limits.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\arm_math_memory.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/none.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/utils.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/statistics_functions.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/basic_math_functions.h
+hatrix\bayesfunctions.o: D:\Keil\ARM\Pack\ARM\CMSIS-DSP\1.14.2\Include\dsp/fast_math_functions.h
